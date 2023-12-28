@@ -1,0 +1,118 @@
+.bg-container {
+    background-size: cover;
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-photo/lagoon-white-ocean-summer-sand_1203-5354.jpg?w=900&t=st=1674495777~exp=1674496377~hmac=45036e6424f8bcefbdd76ffc4e41b5b22d349aa551f23f8f261415e4def0e2d7");
+}
+
+.card {
+    background-color: #ACECA7;
+    text-align: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding: 20px;
+}
+
+.main-heading {
+    font-family: Times New Roman;
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.paragraph {
+    font-family: Times New Roman;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.get-button {
+    font-family: Times New Roman;
+    font-size: 18px;
+    color: black;
+    border-radius: 10px;
+    background-color: white;
+    padding: 6px;
+    font-weight: bold;
+    border-width: 5px;
+    border-color: #1CDFE5;
+}
+
+
+
+.fav-bg-container {
+    background-color: #1CDFE5;
+    background-size: cover;
+    padding: 15px;
+}
+
+.fav-place-main-heading {
+    font-family: Times New Roman;
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.fav-place-card {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.fav-place-heading {
+    font-family: Times New Roman;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fav-place-paragraph {
+    font-family: Times New Roman;
+}
+
+.fav-place-image {
+    height: 150px;
+    width: 180px;
+}
+
+.back-button {
+    font-family: Times New Roman;
+    font-size: 18px;
+    color: black;
+    border-radius: 10px;
+    background-color: white;
+    padding: 6px;
+    font-weight: bold;
+    border-width: 5px;
+    border-color: #1CDFE5;
+}
+
+
+.det-bg-container {
+    background-color: #1CDFE5;
+    background-size: cover;
+    padding: 15px;
+}
+
+.det-main-heading {
+    font-family: Times New Roman;
+    font-weight: bold;
+    font-size: 34px;
+    text-align: center;
+}
+
+.det-card {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.det-paragraph {
+    font-family: Times New Roman;
+}
+
+
+.list-item {
+    font-family: Times New Roman;
+    list-style-type: square;
+}
